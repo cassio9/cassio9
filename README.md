@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cassio Soares
-- 🌱 I’m currently learning Front-End development
+- 🌱 I’m currently learning Front-End development skills
 - 📫 How to reach me: cassiosoares9@hotmail.com     // facebook: cassio.0 // instagram: cassiosoares9
 
 <!---
